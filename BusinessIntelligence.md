@@ -13,3 +13,4 @@ https://redmondmag.com/articles/2014/06/01/~/media/ECG/redmondmag/Images/2014/06
 ![1](https://image.slidesharecdn.com/customersegmentationapproach-130822222026-phpapp01/95/customer-segmentation-approach-3-638.jpg?cb=1387987157)
 ![1](http://www.ventera.com/sites/default/files/Business-intelligence-diagram-2.png)
 ![1](https://image.slidesharecdn.com/automationwebinar-wso2testautomationframework1-130501113914-phpapp02/95/wso2-test-automation-framework-approach-and-adoption-15-638.jpg?cb=1367408760)
+![1](https://www.researchgate.net/profile/Florian_Pinel/publication/224678264/figure/fig1/AS:302892436213778@1449226592968/Figure-1-Model-driven-Dashboard-Framework-Even-though-we-use-UML-for-all-the-modeling.png)
