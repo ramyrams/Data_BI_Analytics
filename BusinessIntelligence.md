@@ -3,6 +3,7 @@ x
 Services
 http://www.ventera.com/services
 
+https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAN5AAAAJGMxODE4OTZmLWQ5M2EtNDRkNy1hYzAxLThiZGFhNjA4NGUwYg.jpg
 https://image.slidesharecdn.com/hpdiscover2014-140620024015-phpapp01/95/predictive-analytics-extending-asset-management-framework-for-multiindustry-applications-leveraging-hps-big-data-haven-platform-11-638.jpg?cb=1403837416
 https://cloud.google.com/solutions/images/datapartners-partner-ecosystem.png
 https://www.edvancer.in/wp-content/uploads/2016/10/pentaho_1.png
