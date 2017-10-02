@@ -8,7 +8,7 @@ http://www.ventera.com/news/insight/white-paper-sensible-approach-successful-bus
 http://www.ventera.com/sites/default/files/Business-intelligence-diagram-2.png
 http://www.ventera.com/sites/default/files/Business-intelligence-diagram-color.png
 https://redmondmag.com/articles/2014/06/01/~/media/ECG/redmondmag/Images/2014/06/F2PBI_Figure1_hires.ashx
-
+http://www.pentaho.com/sites/default/files/styles/full_width_new/public/uploads/sdr-architecture-diagram-630pxwidth-3.jpg?itok=dNQuKqiQ
 https://redmondmag.com/articles/2014/06/01/~/media/ECG/redmondmag/Images/2014/06/F2PBI_Figure1_hires.ashx
 https://d2vvqscadf4c1f.cloudfront.net/ZPgy1TLSVuO5IMtCrOir_BIDF_Mindmap_Methodology_border.png
 ![1](http://www.lucidtechsol.com/wp-content/uploads/2014/11/Lucid-Dashboard-Framework1.jpg)
