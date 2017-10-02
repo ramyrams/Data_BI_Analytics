@@ -3,6 +3,7 @@ x
 Services
 http://www.ventera.com/services
 
+https://www.healthcatalyst.com/wp-content/uploads/2013/06/download-1.png
 https://i.pinimg.com/736x/ba/86/27/ba8627402fa12ac96f501600c17779d8--predictive-analytics-data-analytics.jpg
 https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAN5AAAAJGMxODE4OTZmLWQ5M2EtNDRkNy1hYzAxLThiZGFhNjA4NGUwYg.jpg
 https://image.slidesharecdn.com/hpdiscover2014-140620024015-phpapp01/95/predictive-analytics-extending-asset-management-framework-for-multiindustry-applications-leveraging-hps-big-data-haven-platform-11-638.jpg?cb=1403837416
