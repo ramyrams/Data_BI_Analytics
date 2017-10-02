@@ -19,3 +19,4 @@ https://redmondmag.com/articles/2014/06/01/~/media/ECG/redmondmag/Images/2014/06
 
 
 https://image.slidesharecdn.com/accenture-data-quality-management-regulatory-reporting-170607114242/95/data-quality-management-cleaner-data-better-reporting-6-638.jpg?cb=1496849823
+https://www.thinkbiganalytics.com/wp-content/uploads/2016/10/334-Think-Big-Analytics-RGB-KYLO-Diagram-v12.png
