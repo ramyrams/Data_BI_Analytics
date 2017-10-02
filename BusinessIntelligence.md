@@ -23,3 +23,4 @@ https://www.thinkbiganalytics.com/wp-content/uploads/2016/10/334-Think-Big-Analy
 https://www.healthcatalyst.com/wp-content/uploads/2015/07/Data-governance-multi-year-roadmap.png
 http://www.dallasmarks.com/wp-content/uploads/2014/02/MAD-Dashboard-Framework.jpg
 https://image.slidesharecdn.com/accenture-data-quality-management-regulatory-reporting-170607114242/95/data-quality-management-cleaner-data-better-reporting-6-638.jpg?cb=1496849823
+http://analyticsology.com/2016/03/23/list-of-6-analytics-maturity-models/
