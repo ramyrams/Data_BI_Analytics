@@ -2,7 +2,7 @@ x
 
 Services
 http://www.ventera.com/services
-
+https://www.edvancer.in/wp-content/uploads/2016/10/pentaho_1.png
 http://www.ventera.com/news/insight/white-paper-sensible-approach-successful-business-intelligence-bi-implementation
 https://cloud.google.com/solutions/images/datapartners-partner-ecosystem.png
 http://www.ventera.com/sites/default/files/Business-intelligence-diagram-2.png
