@@ -2,7 +2,7 @@ x
 
 Services
 http://www.ventera.com/services
-
+http://www.callahancreek.com/wp-content/uploads/Garnter-DMC-blog-analytics-framework.png
 https://www.healthcatalyst.com/wp-content/uploads/2013/06/download-1.png
 https://i.pinimg.com/736x/ba/86/27/ba8627402fa12ac96f501600c17779d8--predictive-analytics-data-analytics.jpg
 https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAN5AAAAJGMxODE4OTZmLWQ5M2EtNDRkNy1hYzAxLThiZGFhNjA4NGUwYg.jpg
